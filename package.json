@@ -1,0 +1,12 @@
+{
+  "name": "weather-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/cmcodes1/weather-bot.git",
+  "author": "cmcodes <chandramohan.pandey2015@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.1"
+  }
+}
