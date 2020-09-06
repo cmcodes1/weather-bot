@@ -9,5 +9,5 @@
   <img src="https://img.shields.io/badge/Runtime_Environment-Node.js-68A063.svg" />
   <img src="https://img.shields.io/badge/Weather_API-OpenWeatherMap-e96e4d.svg" />
   <img src="https://img.shields.io/badge/Chat_API-Telegram-139bd0.svg" /> <br/> <br/>
-  <img src="https://github.com/cmcodes1/weather-bot/blob/master/preview.png" height="600px" width="300px" />
+  <img src="https://github.com/cmcodes1/weather-bot/blob/master/preview.png" height="800px" width="400px" />
 </p>
