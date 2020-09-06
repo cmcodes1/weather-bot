@@ -6,7 +6,7 @@ const weatherToken = process.env.WEATHER_API_TOKEN
 
 const weatherURL = new URL("https://api.openweathermap.org/data/2.5/weather")
 
-weatherURL.searchParams.set("zip", "263139,in")
+weatherURL.searchParams.set("q", "Haldwani,IN")
 weatherURL.searchParams.set("APPID", weatherToken)
 weatherURL.searchParams.set("units", "metric")
 
