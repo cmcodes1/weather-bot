@@ -16,11 +16,13 @@ const getWeatherData = async () => {
     return body
 }
 
+const generateWeatherMessage = weatherData =>
+    `Good morning! 😊 There will be ${weatherData.weather[0].description} today in ${weatherData.name}. Currently, the temperature is ${weatherData.main.temp} °C, with a low of ${weatherData.main.temp_min} °C and a high of ${weatherData.main.temp_max} °C.  `
+
 const main = async () => {
     const weatherData = await getWeatherData()
-    console.log(weatherData)
+    const weatherString = generateWeatherMessage(weatherData)
+    console.log(weatherString)
 }
 
 main()
-
-//645
