@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="https://github.com/cmcodes1/weather-bot/blob/master/weather_bot_logo.jpg" width="30" height="30"> Weather Bot </h1>
 <p align="center">
-  An automated bot that notifies you every morning about the weather in your city. <br/> <br/>
+  An automated bot that notifies you every morning about the weather in your city on your telegram app. <br/> <br/>
   <img src="https://img.shields.io/badge/Platform-Android/_iOS-brightgreen.svg" alt="Platform-Android/_iOS" />
   <img src="https://img.shields.io/badge/Version-v1.0beta-brightgreen.svg" />
   <img src="https://img.shields.io/badge/Repo_Size-238_KB-orange.svg" />
